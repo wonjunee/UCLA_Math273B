@@ -11,5 +11,5 @@ The repository contains two folders:
 
 
 
-## Note March 15, 2019
+### Note - March 15, 2019
 Bumsu and I are still updating the codes so the codes are not completely done yet.
