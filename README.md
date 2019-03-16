@@ -8,3 +8,8 @@ The repository contains two folders:
   
   - **Wonjun**: Contains Python code and C++ code for the coordinate gradient descent algorithms with first few examples from the paper. Please email to **wlee [at] math [dot] ucla [dot] edu** to ask questions about the codes.
     (Note: The python codes works but it is really slow. Please send me an email if you know how to make it faster!)
+
+
+
+## Note March 15, 2019
+Bumsu and I are still updating the codes so the codes are not completely done yet.
